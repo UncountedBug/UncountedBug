@@ -1,36 +1,135 @@
-# 💫 About Me:
-I am a third year student at IIIT Naya Raipur, pursuing B.Tech in Data Science and Artificial Intelligance.
-
-Web Development, Machine Learning and Deep Learning, Data Science are my domains of interest. I am a passionate learner, with good problem-solving abilities.
-
-I am always open to work on above topics . Passionate about my dedication and works..<br><br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/toshankanwar2005/) 
+<!--
+**inkerton/inkerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=toshankanwar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=toshankanwar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toshankanwar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Here are some ideas to get you started:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=toshankanwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=toshankanwar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @toshankanwar
-- 👀 I’m interested in ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<h1 align="center">Hey There! 👋 I'm Janvi ✨</h1>
+<h3 align="center">SIH2023 Winner</h3>
+<h3 align="center">An inquisitive Graphic designer and Open-Source Enthusiast</h3>
+<br>
+<p align="center">
+    <img src="https://github.com/inkerton/inkerton/blob/main/gitartwork.svg" />
+</p>   
 
-<!---
-toshankanwar/toshankanwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2> 🌈 &nbsp;About Me:</h2>
+
+```yaml
+name: Janvi
+pronouns: She/Her
+located_in: Delhi, India
+education: BCA Graduate
+fields_of_interests:
+  [
+    "Frontend Development",
+    "UX/UI Designing",
+    "Graphic Designing",
+    "Cloud Computing"
+  ]
+hobbies: ["Full-stack Development", "Designing", "Blogging", "SaaS Building"]
+```
+<!--
+[linkedin]: https://www.linkedin.com/in/janvi-choudhary-68a199225/
+[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p>
+<a href="mailto:janvichoudhary@gmail.com"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="GMAIL" height="30" width="40" /></a>
+</p>
+-->
+
+
+<div className="flex">
+<h2> 📞Let's Connect at:</h2>
+<a href="https://www.linkedin.com/in/janvi-choudhary-68a199225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janvi Choudhary" height="35" width="40" /></a>
+<a href="https://discord.com/users/janvi2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Janvi Choudhary" height="40" width="40" /></a>
+<a href="https://medium.com/@janvichoudhary116" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="Janvi Choudhary" height="40" width="40" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/3fef2515-fe81-4468-9904-b2aa3487cd99" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Janvi Choudhary" height="100" width="140" /></a>
+
+<img align="right" alt="coding" width="300"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+</div>
+<br></br>
+<br> 
+<table>  
+
+
+    
+<h2>🌀⚡Productivity Stats: </h2>
+  <tr>
+    <td width=60%><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inkerton&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=inkerton&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+  </tr>
+</table>
+
+<p align="left"> <a href="https://developer.android.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+    <a href="https://aws.amazon.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://d3js.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> 
+    <a href="https://www.figma.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <a href="https://flutter.dev" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+    <a href="https://www.framer.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+    <a href="https://www.invisionapp.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> 
+    </a> <a href="https://www.java.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+    <a href="https://kafka.apache.org/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://opencv.org/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+    <a href="https://www.photoshop.com/en" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://pytorch.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+    <a href="https://scikit-learn.org/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+    <a href="https://www.tensorflow.org" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+    <a href="https://unity.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<!--
+<img src="https://komarev.com/ghpvc/?username=inkerton&color=CB99FC&style=for-the-badge">
+-->
